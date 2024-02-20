@@ -1,1 +1,1 @@
-# Casio-fx-9750III-
+# Casio-fx-9750III- I could not find any python programs for this calculator... so, I wrote these myself.  They are not fully tested, so please do test them and provide feedback if you find any flaws. Please and thank you.  
